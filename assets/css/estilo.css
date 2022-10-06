@@ -1,0 +1,16 @@
+nav{
+    height:50px;
+    background-color:#484848;
+    color:#c8c8c8;
+    padding:10px;
+    display:flex;
+    align-items:center;
+    justify-content:end;
+}
+nav li{
+    display:flex;
+    align-items:flex-end;
+}
+a{
+    text-decoration:none;
+}
