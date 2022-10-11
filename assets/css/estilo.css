@@ -8,9 +8,13 @@ nav{
     justify-content:end;
 }
 nav li{
+    padding:10px;
     display:flex;
     align-items:flex-end;
 }
 a{
+    text-decoration:none;
+}
+a:hover{
     text-decoration:none;
 }
