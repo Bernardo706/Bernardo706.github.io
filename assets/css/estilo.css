@@ -49,3 +49,21 @@ p{
 .conteudo{
     margin-top:50px;
 }
+.explicacao{
+    text-align: center;
+    margin:90px;
+    padding:0px;
+}
+.explicacao p{
+    border:3px solid #9920a3;
+}
+.git img{
+    float:left;
+    width:100px;
+    height:100px;
+}
+.github img{
+    float:right;
+    width:100px;
+    height:100px;
+}
